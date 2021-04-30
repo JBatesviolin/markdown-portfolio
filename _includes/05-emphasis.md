@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* _BM Violin Performance_
+* **Python**
+* __*Linux*__
+* 3d printing
+* Blender 
+* Violin, Viola, Cello
+* **Analog** Photographic Processing 
