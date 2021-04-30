@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Violin 🎻
+* Tech 🧑‍💻
+* VR 🎮
+* Cats :octocat:
+* Snowboarding 🏂
+* Photography 📷
